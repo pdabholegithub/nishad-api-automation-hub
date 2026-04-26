@@ -22,7 +22,8 @@ buildNumber.properties
 
 # Logs
 *.log
-test_output.txt
+*.txt
+karate-framework/karate_output.txt
 
 # OS
 Thumbs.db
